@@ -1,6 +1,6 @@
 # hello!
 
-I am Jacob, a 16 year old student interested in computer science and programming.
+I am Jacob, a student interested in computer science and programming.
 
 # Skills:
 
