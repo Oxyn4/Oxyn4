@@ -21,8 +21,8 @@ I have run linux as my primary OS for years now. consequently, i am a compotent 
 ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-I began programming with python but quickly fell in love with lower level languages like c++ i am still comfortable with both of these languages 
-however have moved on to learning more modern low level languages like rust, zig, nim and go. I am currently focusing on rust and have quickly been 
+I began programming with python but quickly fell in love with lower level languages like c++. I am still comfortable working with both of these languages 
+however, have moved on to learning more modern low level languages like rust, zig, nim and go. I am currently focusing on rust and have quickly been 
 getting better and better. 
 
 ### tools i use
